@@ -1,0 +1,62 @@
+.box{
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+::placeholder{
+    color: black;
+    text-align: center;
+}
+.login{
+border-radius: 4px;
+margin-top: 20px;
+padding: 5px 10px;
+}
+.content{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  
+  
+}
+input{
+    
+    border-radius: 5px;
+    text-align: center;
+   
+}
+
+h1{
+    text-align: center;
+}
+.top{
+    display: flex;
+    justify-content: center;
+margin: 100px auto;
+
+}
+
+button{
+    background-color: blue;
+    padding: 5px 15px;
+    color: aliceblue;
+    border-radius: 5px;
+    font-size: 18px;
+}
+body{
+    background-color: black;
+}
+.main{
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 8px;
+
+    color: aliceblue;
+    width: 25%;
+    height:250px;
+   
+}

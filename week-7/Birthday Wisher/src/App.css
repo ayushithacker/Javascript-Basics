@@ -1,0 +1,24 @@
+body{
+  background-image: url('./bg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.main{
+  background-color: blue;
+  opacity: 0.5;
+  min-height: 200px;
+  width: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.top{
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  
+}
+.content{
+  display: flex;
+  flex-direction: column;
+}
